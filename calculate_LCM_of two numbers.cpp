@@ -23,12 +23,13 @@ int main()    //program to calculate LCM of 2 numbers
            {cout<<"LCM of "<<x<<" and "<<y<<" is:"<<arr1[i];
             exit(0);
            }}
-    }
+        }
     for(i=0;i<10;i++)
     {for(j=0;j<10;j++)
         {if(arr1[i]!=arr2[j])
-           {cout<<"LCM of "<<x<<" and "<<y<<" is:"<<(x*y);
+           {
+cout<<"LCM of "<<x<<" and "<<y<<" is:"<<1;
             exit(0);
            }}
-    }
+        }
 }
