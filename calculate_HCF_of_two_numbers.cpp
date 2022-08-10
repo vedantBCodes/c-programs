@@ -28,7 +28,7 @@ int main()    //program to calculate HCF of 2 numbers
     {for(j=0;j<10;j++)
         {if(arr1[i]!=arr2[j])
            {
-cout<<"LCM of "<<x<<" and "<<y<<" is:"<<1;
+cout<<"HCF of "<<x<<" and "<<y<<" is:"<<1;
             exit(0);
            }}
         }
